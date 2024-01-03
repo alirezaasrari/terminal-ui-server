@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Ho4ePJd4fkTRAYSqk4C9ARgDN+Wl5HTDzcBBCvsbh/8=",
+  "Source": "TerminalWebApi",
+  "BasePath": "_content/TerminalWebApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TerminalWebApi\\wwwroot",
+      "Source": "TerminalWebApi",
+      "ContentRoot": "D:\\TerminalWebApi\\TerminalWebApi\\wwwroot\\",
+      "BasePath": "_content/TerminalWebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
